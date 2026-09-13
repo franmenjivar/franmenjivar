@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Data engineer in air navigation services · researching UAS traffic management</b><br>
-  <sub>Ottawa, ON 🇨🇦</sub>
+  <sub>Ottawa, ON 🇨🇦 - Fort Ladurdale Fl usa-flag - El Salvador</sub>
 </p>
 
 <p align="center">
