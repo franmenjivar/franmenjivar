@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Erick 👋</h1>
 
 <p align="center">
-  <b>Data engineer in air navigation services · researching UAS traffic management</b><br>
-  <sub>Ottawa, ON 🇨🇦 - Fort Ladurdale Fl usa-flag - El Salvador</sub>
+  <b>Data &amp; AI architecture for safety-critical aviation systems · UAS traffic management research</b><br>
+  <sub>Ottawa, ON 🇨🇦 &nbsp;·&nbsp; Fort Lauderdale, FL 🇺🇸 &nbsp;·&nbsp; El Salvador 🇸🇻</sub>
 </p>
 
 <p align="center">
@@ -20,14 +20,22 @@
 
 ### 🛩️ What I work on
 
-A conflict detector never sees the airspace as it is — only as it was when the
-last message arrived. My work sits on both sides of that gap: building the
-pipelines that move surveillance and telemetry data at scale, and measuring what
-happens to safety when that data shows up late.
+I'm a **data and AI architecture engineer** working in safety-critical domains —
+primarily aviation and airspace. The work is modernization: taking platforms
+where the data is operational rather than analytical, and rebuilding how they
+are designed, moved and served.
 
-By day I build big-data pipelines for air traffic analytics. The rest of the
-time I write open-source surveillance tooling and run experiments on how
-information freshness constrains conflict detection in low-altitude airspace.
+In practice that means migrating legacy batch systems to cloud-native and
+streaming architectures, engineering them to hold up at gigabyte scale and at
+sane cost, and integrating machine learning and LLM-driven components into
+environments that are regulated and cannot afford to be flaky. I tend to work
+at the seam between the data platform and the systems that consume it, where
+architectural decisions decide whether the thing is trustworthy.
+
+That constraint is also what pulled me into research. In this domain, data that
+arrives late is not a performance problem — it is a safety problem. A conflict
+detector never sees the airspace as it is, only as it was when the last message
+arrived, and I spend a good deal of time measuring how much that gap costs.
 
 ---
 
